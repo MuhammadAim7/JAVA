@@ -1,0 +1,6 @@
+Nama : Muhammad A'im Maturrohman
+NIM  : 24210002
+prodi: Teknik Informatika
+
+nb.
+1. jalankan pada file main.java
